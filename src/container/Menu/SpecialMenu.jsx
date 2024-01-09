@@ -3,13 +3,14 @@ import React from 'react';
 import { SubHeading, MenuItem } from '../../components';
 import { data, images } from '../../constants';
 import './SpecialMenu.css';
+import Button from '../../components/Button/Button';
 
 const SpecialMenu = () => (
   <div className='app__specialMenu flex__center section__padding' id='menu'>
     
     <div className='app__specialMenu-title'>
-      <SubHeading title='Menu that fits your palatte' />
-      <h1 className="headtext__cormorant">Today&apos;s Special</h1>
+      <SubHeading title='Um menu que combine com seu paladar' />
+      <h1 className="headtext__cormorant">Especial de hoje</h1>
     </div>
 
     <div className='app__specialMenu-menu'>
@@ -49,7 +50,7 @@ const SpecialMenu = () => (
     </div>
 
     <div style={{ marginTop: 15 }}>
-      <button type="button" className="custom__button">View More</button>
+      <Button text='Saiba mais' />
     </div>
 
   </div>

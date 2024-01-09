@@ -16,12 +16,6 @@
     width: 80%;
 }
 
-button.custom__button:hover{
-    background-color: var(--color-golden);
-    color: var(--color-white);
-    transition: ease-in-out 0.3s;
-}
-
 @media screen and (min-width: 2000px) {
     .app__header-h1 {
         font-size: 180px;

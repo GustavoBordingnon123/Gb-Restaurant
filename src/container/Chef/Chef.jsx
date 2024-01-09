@@ -13,8 +13,8 @@ const Chef = () => (
       </div>
 
       <div className='app__wrapper_info'>
-        <SubHeading  title="Chef's word" />
-        <h1 className="headtext__cormorant">What we believe in</h1>
+        <SubHeading  title="Palavras do chef" />
+        <h1 className="headtext__cormorant">No que acredtamos</h1>
 
         <div className='app__chef-content'>
 
