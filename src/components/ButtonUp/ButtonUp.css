@@ -1,0 +1,34 @@
+.button__up {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+    position: fixed;
+    z-index: 99999999;
+    background: var(--color-golden);
+    color: var(--color-black);
+    font-weight: 600;
+    font-size: 16px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    bottom: 30px;
+    right: 30px;
+    font-family: var(--font-base);
+    border: none;
+}
+
+.button__up:hover{
+    cursor: pointer;
+    background-color: var(--color-white);
+    color: var(--color-black);
+    transition: 0.3s ease-in-out;
+}
+
+@media screen and (max-width:1150px){
+    .button__up{
+        font-size: 14px;
+        bottom: 10px;
+        right:10px;
+        padding:5px 10px;
+    }
+}
