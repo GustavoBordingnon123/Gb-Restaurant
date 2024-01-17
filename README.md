@@ -1,70 +1,120 @@
-# Getting Started with Create React App
+# Projeto Gb-Restaurant (React)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Página de Entrada Elegante para Restaurante
 
-## Available Scripts
+### Inglês
 
-In the project directory, you can run:
+Welcome to the Gb-Restaurant project! This React-based project features a stylish landing page for an upscale restaurant. It is crafted to showcase the restaurant's ambiance, menu offerings, and contact information in a visually captivating manner.
 
-### `npm start`
+### Recursos
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Responsive Design**: The landing page is designed to provide an optimal viewing experience across various devices, including desktops, tablets, and mobile phones.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **React Components**: The project is structured using React, allowing for modular components and efficient development.
 
-### `npm test`
+- **Eye-catching Visuals**: High-quality images and elegant design elements are employed to enhance the visual appeal, reflecting the sophisticated nature of the restaurant.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Menu Display**: A dedicated section for displaying the restaurant's menu, allowing visitors to explore the culinary delights offered.
 
-### `npm run build`
+- **Contact Information**: Easily accessible contact details for making reservations or inquiries.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Social Media Integration**: Links to the restaurant's social media profiles to keep users connected and engaged.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Estrutura do Projeto
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **public**: Public assets and HTML template.
+  
+- **src**: React source code files.
 
-### `npm run eject`
+  - **components**: React components used in the project.
+  
+  - **fix mobile navbar**: Folder containing fixes for mobile navbar.
+  
+  - **final touches**: Folder for final touch-ups on the project.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Como Usar
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. **Clone o Repositório:**
+   ```bash
+   git clone https://github.com/GustavoBordingnon123/Gb-Restaurant.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   Navegue até o Diretório do Projeto:
 
-## Learn More
+bash
+Copy code
+cd Gb-Restaurant
+Instale as Dependências:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+bash
+Copy code
+npm install
+Execute a Aplicação:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+bash
+Copy code
+npm start
+Abra seu navegador e acesse http://localhost:3000 para visualizar a página de entrada.
 
-### Code Splitting
+Customização
+Sinta-se à vontade para personalizar o conteúdo, imagens, e estilos para adequá-los à identidade visual e aos requisitos específicos do restaurante.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Contribuidores
+Gustavo Bordingnon
+Português
+Bem-vindo ao projeto Gb-Restaurant! Este projeto, baseado em React, apresenta uma página de entrada elegante para um restaurante de alto padrão. Foi desenvolvido para mostrar a atmosfera do restaurante, o menu e as informações de contato de maneira visualmente cativante.
 
-### Analyzing the Bundle Size
+Recursos
+Design Responsivo: A página de entrada é projetada para proporcionar uma experiência de visualização ideal em diversos dispositivos, incluindo desktops, tablets e celulares.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Componentes React: O projeto é estruturado usando React, permitindo componentes modulares e desenvolvimento eficiente.
 
-### Making a Progressive Web App
+Elementos Visuais Atraentes: Imagens de alta qualidade e elementos de design elegantes são utilizados para aumentar o apelo visual, refletindo a natureza sofisticada do restaurante.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Exibição do Menu: Uma seção dedicada para exibir o menu do restaurante, permitindo que os visitantes explorem as delícias culinárias oferecidas.
 
-### Advanced Configuration
+Informações de Contato: Detalhes de contato facilmente acessíveis para realizar reservas ou tirar dúvidas.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Integração com Mídias Sociais: Links para os perfis de mídias sociais do restaurante para manter os usuários conectados.
 
-### Deployment
+Estrutura do Projeto
+public: Ativos públicos e modelo HTML.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+src: Arquivos de código-fonte React.
 
-### `npm run build` fails to minify
+components: Componentes React utilizados no projeto.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+fix mobile navbar: Pasta contendo correções para a barra de navegação em dispositivos móveis.
+
+final touches: Pasta para ajustes finais no projeto.
+
+Como Usar
+Clone o Repositório:
+
+bash
+Copy code
+git clone https://github.com/GustavoBordingnon123/Gb-Restaurant.git
+Navegue até o Diretório do Projeto:
+
+bash
+Copy code
+cd Gb-Restaurant
+Instale as Dependências:
+
+bash
+Copy code
+npm install
+Execute a Aplicação:
+
+bash
+Copy code
+npm start
+Abra seu navegador e acesse http://localhost:3000 para visualizar a página de entrada.
+
+Customização
+Sinta-se à vontade para personalizar o conteúdo, imagens, e estilos para adequá-los à identidade visual e aos requisitos específicos do restaurante.
+
+Contribuidores
+Gustavo Bordingnon
+
+
