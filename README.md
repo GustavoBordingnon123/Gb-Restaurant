@@ -1,5 +1,11 @@
 # Gb-Restaurant Landing Page
 
+-----------------------------------------------------------------------
+
+**Demo: [https://gb-restaurant.vercel.app](https://gb-restaurant.vercel.app)**
+
+-----------------------------------------------------------------------
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 **Idioma:**
@@ -35,10 +41,6 @@ Contributions are welcome! Feel free to open issues or send pull requests to imp
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for more details.
-
----
-
-**Demo: [https://gb-restaurant.vercel.app](https://gb-restaurant.vercel.app)**
 
 -----------------------------------------------------------------------
 
