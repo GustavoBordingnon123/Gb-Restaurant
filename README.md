@@ -24,7 +24,6 @@ Este projeto é uma landing page excecionalmente projetada para um restaurante, 
 - React
 - HTML
 - CSS
-- Outras bibliotecas ou ferramentas que você julgar relevantes
 
 ## Como Executar
 
@@ -68,7 +67,6 @@ This project is an exceptionally designed landing page for a restaurant, offerin
 - React
 - HTML
 - CSS
-- Any other relevant libraries or tools
 
 ## How to Run
 
