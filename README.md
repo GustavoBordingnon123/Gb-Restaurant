@@ -6,9 +6,10 @@
 
 Access the demo [here](https://gb-restaurant.vercel.app).
 
+## Escolha sua linguagem / Choose your language
 
-- [Português](#gb-restaurant-landing-page)
-- [English](#gb-restaurant-landing-page-1)
+- [![Português](https://img.shields.io/badge/pt--br-Portugu%C3%AAs-green)](README.pt-br.md) | Português 
+- [![English](https://img.shields.io/badge/en-English-green)](README.md) | English
 
 ## Descrição
 
