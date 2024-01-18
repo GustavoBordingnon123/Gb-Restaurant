@@ -2,6 +2,10 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+**Language:**
+[![Português](https://img.shields.io/badge/pt--br-Portugu%C3%AAs-green)](README.pt-br.md)
+[![English](https://img.shields.io/badge/en-English-green)](README.md)
+
 ## Descrição
 
 Este projeto é uma landing page excecionalmente projetada para um restaurante, oferecendo uma experiência virtual envolvente que reflete a atmosfera única e o cardápio irresistível do estabelecimento. A página principal apresenta uma interface visualmente atraente, com imagens apetitosas dos pratos e bebidas exclusivas disponíveis no restaurante, criando uma primeira impressão impactante para os visitantes. O ponto focal desta landing page é o menu interativo, cuidadosamente elaborado para exibir de forma cativante todas as opções gastronômicas disponíveis.
@@ -39,6 +43,10 @@ Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+**Idioma:**
+[![Português](https://img.shields.io/badge/pt--br-Portugu%C3%AAs-green)](README.pt-br.md)
+[![English](https://img.shields.io/badge/en-English-green)](README.md)
+
 ## Description
 
 This project is an exceptionally designed landing page for a restaurant, offering an engaging virtual experience that reflects the unique atmosphere and irresistible menu of the establishment. The main page features a visually appealing interface, showcasing appetizing images of the dishes and exclusive drinks available at the restaurant, creating a striking first impression for visitors. The focal point of this landing page is the interactive menu, carefully crafted to captivatingly display all the available culinary options.
@@ -69,3 +77,7 @@ Contributions are welcome! Feel free to open issues or send pull requests to imp
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for more details.
+
+---
+
+**Demo: [https://gb-restaurant.vercel.app](https://gb-restaurant.vercel.app)**
