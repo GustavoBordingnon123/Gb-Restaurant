@@ -49,11 +49,6 @@ Acesse a demo [aqui](https://gb-restaurant.vercel.app).
 
 # Gb-Restaurant Landing Page
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-- [Português](#gb-restaurant-landing-page)
-- [English](#gb-restaurant-landing-page-1)
-
 ## Description
 
 This project is an exceptionally designed landing page for a restaurant, offering an engaging virtual experience that reflects the unique atmosphere and irresistible menu of the establishment. The main page features a visually appealing interface, showcasing appetizing images of the dishes and exclusive drinks available at the restaurant, creating a striking first impression for visitors. The focal point of this landing page is the interactive menu, carefully crafted to captivatingly display all the available culinary options.
