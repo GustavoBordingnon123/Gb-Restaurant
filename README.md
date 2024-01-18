@@ -1,55 +1,14 @@
 # Gb-Restaurant Landing Page
 
------------------------------------------------------------------------
-
-**Demo: [https://gb-restaurant.vercel.app](https://gb-restaurant.vercel.app)**
-
------------------------------------------------------------------------
-
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-**Idioma:**
-[![English](https://img.shields.io/badge/en-English-green)](README.md)
+## Demo
 
-## Description
+Access the demo [here](https://gb-restaurant.vercel.app).
 
-This project is an exceptionally designed landing page for a restaurant, offering an engaging virtual experience that reflects the unique atmosphere and irresistible menu of the establishment. The main page features a visually appealing interface, showcasing appetizing images of the dishes and exclusive drinks available at the restaurant, creating a striking first impression for visitors. The focal point of this landing page is the interactive menu, carefully crafted to captivatingly display all the available culinary options.
 
-## Screenshots
-
-![GbRestaurant](https://github.com/GustavoBordingnon123/Gb-Restaurant/assets/105391247/b142f1ec-c1d5-4705-9782-f08fc996397f)
-
-## Technologies Used
-
-- React
-- HTML
-- CSS
-- Any other relevant libraries or tools
-
-## How to Run
-
-1. **Clone the repository:** `git clone https://github.com/GustavoBordingnon123/Gb-Restaurant.git`
-2. **Navigate to the project directory:** `cd Gb-Restaurant`
-3. **Install dependencies:** `npm install`
-4. **Run the application:** `npm start`
-5. **Open your browser and go to:** `http://localhost:3000`
-
-## Contributions
-
-Contributions are welcome! Feel free to open issues or send pull requests to improve this project. Make sure to follow the contribution guidelines.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for more details.
-
------------------------------------------------------------------------
-
-# Gb-Restaurant Landing Page
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-**Language:**
-[![Português](https://img.shields.io/badge/pt--br-Portugu%C3%AAs-green)](README.pt-br.md)
+- [Português](#gb-restaurant-landing-page)
+- [English](#gb-restaurant-landing-page-1)
 
 ## Descrição
 
@@ -81,3 +40,47 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou env
 ## Licença
 
 Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT) - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Demo
+
+Acesse a demo [aqui](https://gb-restaurant.vercel.app).
+
+---
+
+# Gb-Restaurant Landing Page
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+- [Português](#gb-restaurant-landing-page)
+- [English](#gb-restaurant-landing-page-1)
+
+## Description
+
+This project is an exceptionally designed landing page for a restaurant, offering an engaging virtual experience that reflects the unique atmosphere and irresistible menu of the establishment. The main page features a visually appealing interface, showcasing appetizing images of the dishes and exclusive drinks available at the restaurant, creating a striking first impression for visitors. The focal point of this landing page is the interactive menu, carefully crafted to captivatingly display all the available culinary options.
+
+## Screenshots
+
+![GbRestaurant](https://github.com/GustavoBordingnon123/Gb-Restaurant/assets/105391247/b142f1ec-c1d5-4705-9782-f08fc996397f)
+
+## Technologies Used
+
+- React
+- HTML
+- CSS
+- Any other relevant libraries or tools
+
+## How to Run
+
+1. **Clone the repository:** `git clone https://github.com/GustavoBordingnon123/Gb-Restaurant.git`
+2. **Navigate to the project directory:** `cd Gb-Restaurant`
+3. **Install dependencies:** `npm install`
+4. **Run the application:** `npm start`
+5. **Open your browser and go to:** `http://localhost:3000`
+
+## Contributions
+
+Contributions are welcome! Feel free to open issues or send pull requests to improve this project. Make sure to follow the contribution guidelines.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for more details.
